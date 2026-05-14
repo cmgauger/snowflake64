@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "snowflake64", "src\libsnowflake64.vcxproj", "{1656F217-C288-4FD9-8C65-5133C57C315F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libsnowflake64", "src\libsnowflake64.vcxproj", "{1656F217-C288-4FD9-8C65-5133C57C315F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "tests\test.vcxproj", "{88CD1DC6-32D0-4957-BC78-F1AA95DB44EA}"
 	ProjectSection(ProjectDependencies) = postProject
